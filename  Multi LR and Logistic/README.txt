@@ -1,4 +1,4 @@
-Name: Shreyash Shrivastava
+ Name: Shreyash Shrivastava
 ID: 1001397477
 Class: CSE 6363
 
