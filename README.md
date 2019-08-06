@@ -6,4 +6,4 @@ Different ML algorithms implemented from scratch. Namely,
 2. KNN and Naive Bayes
 3. Recrusive Decision Trees
 4. Bagging and Boosting (Ada Boost)
-5. Yarwosky's Algorithm and Agglomerative Heirarchical Clustering
+5. Yarwosky's Algorithm and Agglomerative Hierarchical Clustering
